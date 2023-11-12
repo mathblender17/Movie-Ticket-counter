@@ -22,15 +22,15 @@ Just make sure that your environment can run C and some basic HTML code.
 
 ## Results and Output :
 
-*Core code :
-*Enter the line to book ticket(Enqueue):![Screenshot 2023-11-13 021718](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/df49b6d5-6c26-410c-ad0d-c2c331fc9dfd)
-*Display:![Screenshot 2023-11-13 022045](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/dab1b3a4-c55a-4470-9858-3f0fa9beee78)
-*Book the ticket and come out of the line(Dequeue):![Screenshot 2023-11-13 022404](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/bb4d477b-1c8d-416d-a202-af36f54090ec)
+* Core code :
+* Enter the line to book ticket(Enqueue):![Screenshot 2023-11-13 021718](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/df49b6d5-6c26-410c-ad0d-c2c331fc9dfd)
+* Display:![Screenshot 2023-11-13 022045](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/dab1b3a4-c55a-4470-9858-3f0fa9beee78)
+* Book the ticket and come out of the line(Dequeue):![Screenshot 2023-11-13 022404](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/bb4d477b-1c8d-416d-a202-af36f54090ec)
 
-*Frontend : 
+* Frontend : 
 ![Screenshot 2023-11-13 022542](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/1c8bb9e6-b779-43d0-a65e-5029f0df00ca)
-*processing : ![Screenshot 2023-11-13 022627](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/b4ba7266-50cd-40b2-b178-842b3c458298)
-*Entering the line :![Screenshot 2023-11-13 022716](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/500364c9-ebc2-4837-b877-17990728c46d)
+* processing: ![Screenshot 2023-11-13 022627](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/b4ba7266-50cd-40b2-b178-842b3c458298)
+* Entering the line:![Screenshot 2023-11-13 022716](https://github.com/mathblender17/Movie-Ticket-counter-implementation/assets/114827353/500364c9-ebc2-4837-b877-17990728c46d)
 
 
 
